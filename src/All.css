@@ -1,0 +1,361 @@
+
+.navbar-collapse{
+    justify-content: space-around;
+}
+.me-auto.nav-margin{
+    margin-right: 0px !important;
+}
+.navbar-brand{
+    margin-left: 70px;
+}
+.nav-link{
+    padding: 5px 25px !important;
+}
+.btn-div{
+    display: flex;
+    justify-content: end;
+    margin-right: 90px;
+}
+.btn-div .nav-link{
+    color: #43A046;
+}
+.btn-div button{
+    background-color: #43A046;
+}
+.img-div{
+    display: flex;
+    justify-content: center;
+}
+.carousel-col{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar-fix{
+    position: fixed;
+    width: 100%;
+}
+.padding-top{
+    padding-top: 120px;
+}
+.home-carousel{
+    background-color: #F5F7FA;
+}
+.details-div h1{
+    color: #4D4D4D;
+    font-size: 70px;
+}
+.details-div button{
+    background-color: #43A046;
+    border-color: #43A046;
+}
+.details-div span{
+    color:#43A046 ;
+}
+.icon-div{
+    display: flex;
+    justify-content: center;
+}
+.icon-div svg{
+    width:40px ;
+    height: 40px;
+}
+.first-icon{
+    color: #43A046;
+}
+.client-head{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.client-head h1{
+    color: #4D4D4D;
+}
+.logo-div ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo-div li{
+    list-style: none;
+}
+.client-second-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.client-second-div h1{
+    text-align: center;
+    color: #4D4D4D;
+    font-size: 35px;
+
+}
+.card-div span{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.card-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px 30px;
+    box-shadow: 0px 0px 3px;
+    height: 300px;
+}
+.details-col-three{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.client-cols{
+    display: flex;
+    justify-content: space-between;
+}
+.card-div h4{
+    color: #4D4D4D;
+
+}
+.card-div p{
+    color: gray;
+}
+.img-div-second{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.img-second-col{
+    display: flex;
+    align-items: center;
+}
+.detail-div-two h4{
+    font-size: 35px;
+    color: #4D4D4D;
+
+}
+.detail-div-two p{
+    color: gray;
+    text-align: start;
+}
+.detail-div-two button{
+    color: white;
+    background-color: #43A046;
+    border-color: #43A046;
+}
+.help-container{
+    background-color:#F5F7FA ;
+}
+.help-div-one span{
+    color: #43A046;
+}
+.help-div-one h3{
+    font-size: 30px;
+}
+.help-icon-div{
+    display: flex;
+}
+.margin-left{
+    margin-left: 10px;
+}
+.col-details-help{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.row-padding-help{
+    padding: 25px;
+}
+.details-span ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px;
+}
+.details-span ul li{
+    list-style: none;
+}
+.detail-div-two h6{
+    color: #43A046;
+}
+.detail-div-two p{
+    color: gray;
+}
+.link-details{
+    color: #43A046;
+    text-decoration: none;
+    font-weight: bold;
+}
+.bg-clr{
+    background-color:#F5F7FA ;
+}
+.caring-head h1,p{
+    text-align: center;
+}
+.caring-head h1{
+    color: #4D4D4D;
+}
+.caring-head{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.care-img-div{
+    position: relative;
+   
+}
+.care-img-div img{
+    padding: 0px 0px 25px 0px;
+}
+.img-details{
+    position: absolute;
+    bottom: 0px; /* Adjust to control the vertical offset from the bottom */
+    left: 50%;
+    transform: translateX(-50%); /* Centers the div horizontally */
+    background-color: #F5F7FA; /* Optional for readability */
+    padding: 10px;
+    border-radius: 10px; /* Optional: rounded corners */
+    text-align: center;
+    box-shadow: 0px 0px 4px;
+   
+}
+
+.position-col{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+ .care-img-div {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; /* Aligns the .img-details to the bottom */
+    overflow: hidden; 
+ }
+
+.span-details{
+    display: flex !important;
+    justify-content: center;
+   align-items: center;
+   color: #43A046;
+}
+.margin-demo{
+    margin-top: 150px;
+    background-color:#F5F7FA;
+}
+.demo-div{
+    padding: 20px;
+}
+.demo-div h1 {
+    text-align: center;
+
+}
+.demo-div .btn{
+        display: flex;
+        justify-content: center;
+}
+.demo-div button{
+    background-color: #43A046;
+    border-color: #43A046;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.footer-list ul li{
+    list-style: none;
+    padding: 10px 0px;
+}
+.footer-list ul{
+    padding: 0px;
+}
+.footer-clr{
+    background-color:#263238;
+    color: white;
+    padding: 30px;
+    
+}
+
+.footer-first-col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-first-col ul{
+    display: flex;
+    padding: 0px;
+    
+}
+.footer-first-col ul li{
+        list-style: none;
+
+}
+.spn-ftr{
+    background-color: gray !important;
+    display: flex;
+    padding:5px;
+    border-radius: 10px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0px;
+    margin-right: 30px;
+}
+.spn-ftr p{
+    margin: 0px;
+    padding: 5px;
+}
+.para{
+    text-align: start;
+}
+.para-div{
+    margin: 30px 0px;
+}
+@media screen and (max-width:427px) {
+    .logo-div ul{
+        padding: 0px;
+    }
+    
+}
+@media screen and (max-width:347px) {
+    .detail-div-two p{
+        font-size: 6px;
+    }
+    .details-span ul li img{
+            width: 25px;
+           
+    }
+    .details-span ul li{
+        font-size: 10px;
+    }
+    .logo-div ul li img{
+        width: 25px;
+    }
+    .details-div h1{
+        font-size: 30px;
+    }
+    .navbar-fix{
+        width: 82px;
+    }
+    .img-div-second img{
+        width: 50%;
+
+    }
+    .img-div img{
+        width: 50%;
+    }
+    .care-img-div img{
+        width: 100%;
+    }
+}
+@media screen and (max-width:1123px) {
+    .position-col{
+        margin-bottom: 50px;
+    }
+    .care-img-div img{
+        width: 100%;
+    }
+    
+}
