@@ -185,6 +185,7 @@
 .detail-div-two p{
     color: gray;
 }
+
 .link-details{
     color: #43A046;
     text-decoration: none;
@@ -196,17 +197,16 @@
 .caring-head h1,p{
     text-align: center;
 }
+
 .caring-head h1{
     color: #4D4D4D;
 }
+
 .caring-head{
     margin-top: 30px;
     margin-bottom: 30px;
 }
-.care-img-div{
-    position: relative;
-   
-}
+
 .care-img-div img{
     padding: 0px 0px 25px 0px;
 }
@@ -218,9 +218,7 @@
     background-color: #F5F7FA; /* Optional for readability */
     padding: 10px;
     border-radius: 10px; /* Optional: rounded corners */
-    text-align: center;
     box-shadow: 0px 0px 4px;
-   
 }
 
 .position-col{
@@ -229,13 +227,6 @@
     align-items: center;
     position: relative;
 }
- .care-img-div {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end; /* Aligns the .img-details to the bottom */
-    overflow: hidden; 
- }
 
 .span-details{
     display: flex !important;
@@ -243,6 +234,7 @@
    align-items: center;
    color: #43A046;
 }
+
 .margin-demo{
     margin-top: 150px;
     background-color:#F5F7FA;
@@ -287,11 +279,9 @@
 .footer-first-col ul{
     display: flex;
     padding: 0px;
-    
 }
 .footer-first-col ul li{
         list-style: none;
-
 }
 .spn-ftr{
     background-color: gray !important;
@@ -335,10 +325,8 @@
     .details-div h1{
         font-size: 30px;
     }
- 
     .img-div-second img{
         width: 50%;
-
     }
     .img-div img{
         width: 50%;
@@ -354,5 +342,4 @@
     .care-img-div img{
         width: 100%;
     }
-    
 }
