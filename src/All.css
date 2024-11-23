@@ -343,3 +343,27 @@
         width: 100%;
     }
 }
+
+@media screen and (max-width:478px) {
+    .details-div h1{
+        font-size: 35px;
+    }
+    .details-div p{
+        font-size: 10px;
+    }
+    .img-div img{
+        width: 50%;
+    }
+    .logo-div ul li img{
+        width: 25px;
+    }
+    .img-div-second img{
+        width: 50%;
+    }
+    .details-span ul li img{
+        width: 25px;
+    }
+    .link-details{
+        font-size: 10px;
+    }
+}
